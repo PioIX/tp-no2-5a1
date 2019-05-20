@@ -1,1 +1,2 @@
 d:\documentos\visual studio 2015\Projects\Bingo-2019\Bingo-2019\bin\Debug\Bingo-2019.exe.config
+C:\Users\Alumno\Source\Repos\PioIX\tp-no2-5a1\Bingo-2019\Bingo-2019\bin\Debug\Bingo-2019.exe.config
