@@ -11,3 +11,15 @@ D:\documentos\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.vbpro
 D:\documentos\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.exe
 D:\documentos\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.xml
 D:\documentos\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.pdb
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\bin\Debug\Bingo-2019.exe.config
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\bin\Debug\Bingo-2019.exe
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\bin\Debug\Bingo-2019.pdb
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\bin\Debug\Bingo-2019.xml
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.vbprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo_2019.Cartel.resources
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo_2019.Resources.resources
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.exe
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.xml
+C:\Users\Usuario\Documents\GitHub\tp-no2-5a1\Bingo-2019\Bingo-2019\obj\Debug\Bingo-2019.pdb
