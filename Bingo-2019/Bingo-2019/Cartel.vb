@@ -1,5 +1,5 @@
 ﻿Public Class Cartel
-    Dim z = 1, y = 1
+    Dim z = -1, y = 1
     Dim btn(90) As Button
     Dim saltodelinea As Single
     Private Sub T1_Click(sender As Object, e As EventArgs) Handles T1.Click
@@ -12,7 +12,7 @@
             btn(i) = New Button()
             Me.Controls.Add(btn(i))
             btn(i).Visible = True
-            btn(i).Font = Modern No. 20
+            btn(i).Font = New Font("Monotype Corsiva", 20)
             btn(i).Text = i
             btn(i).Width = 60
             btn(i).Height = 60
@@ -23,6 +23,7 @@
             If i <> 1 Then
                 If saltodelinea = 1 Or saltodelinea = 2 Or saltodelinea = 3 Or saltodelinea = 4 Or saltodelinea = 5 Or saltodelinea = 6 Or saltodelinea = 7 Or saltodelinea = 8 Or saltodelinea = 9 Then
                     btn(i).Top = btn(i - 1).Top + 60
+                    btn(i).Left = 60
                 Else
                     btn(i).Left = btn(i - 1).Left + 60
                     btn(i).Top = btn(i - 1).Top

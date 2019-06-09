@@ -117,7 +117,7 @@ Partial Class Cartel
         '
         'T1
         '
-        Me.T1.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T1.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T1.Location = New System.Drawing.Point(68, 30)
         Me.T1.Multiline = True
         Me.T1.Name = "T1"
@@ -130,7 +130,7 @@ Partial Class Cartel
         '
         'T2
         '
-        Me.T2.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T2.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T2.Location = New System.Drawing.Point(131, 30)
         Me.T2.Multiline = True
         Me.T2.Name = "T2"
@@ -142,7 +142,7 @@ Partial Class Cartel
         '
         'T4
         '
-        Me.T4.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T4.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T4.Location = New System.Drawing.Point(257, 30)
         Me.T4.Multiline = True
         Me.T4.Name = "T4"
@@ -154,7 +154,7 @@ Partial Class Cartel
         '
         'T3
         '
-        Me.T3.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T3.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T3.Location = New System.Drawing.Point(194, 30)
         Me.T3.Multiline = True
         Me.T3.Name = "T3"
@@ -166,7 +166,7 @@ Partial Class Cartel
         '
         'T8
         '
-        Me.T8.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T8.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T8.Location = New System.Drawing.Point(509, 30)
         Me.T8.Multiline = True
         Me.T8.Name = "T8"
@@ -178,7 +178,7 @@ Partial Class Cartel
         '
         'T7
         '
-        Me.T7.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T7.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T7.Location = New System.Drawing.Point(446, 30)
         Me.T7.Multiline = True
         Me.T7.Name = "T7"
@@ -190,7 +190,7 @@ Partial Class Cartel
         '
         'T6
         '
-        Me.T6.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T6.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T6.Location = New System.Drawing.Point(383, 30)
         Me.T6.Multiline = True
         Me.T6.Name = "T6"
@@ -202,7 +202,7 @@ Partial Class Cartel
         '
         'T5
         '
-        Me.T5.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T5.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T5.Location = New System.Drawing.Point(320, 30)
         Me.T5.Multiline = True
         Me.T5.Name = "T5"
@@ -214,7 +214,7 @@ Partial Class Cartel
         '
         'T10
         '
-        Me.T10.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T10.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T10.Location = New System.Drawing.Point(635, 30)
         Me.T10.Multiline = True
         Me.T10.Name = "T10"
@@ -226,7 +226,7 @@ Partial Class Cartel
         '
         'T9
         '
-        Me.T9.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T9.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T9.Location = New System.Drawing.Point(572, 30)
         Me.T9.Multiline = True
         Me.T9.Name = "T9"
@@ -238,7 +238,7 @@ Partial Class Cartel
         '
         'T20
         '
-        Me.T20.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T20.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T20.Location = New System.Drawing.Point(635, 96)
         Me.T20.Multiline = True
         Me.T20.Name = "T20"
@@ -250,7 +250,7 @@ Partial Class Cartel
         '
         'T19
         '
-        Me.T19.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T19.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T19.Location = New System.Drawing.Point(572, 96)
         Me.T19.Multiline = True
         Me.T19.Name = "T19"
@@ -262,7 +262,7 @@ Partial Class Cartel
         '
         'T18
         '
-        Me.T18.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T18.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T18.Location = New System.Drawing.Point(509, 96)
         Me.T18.Multiline = True
         Me.T18.Name = "T18"
@@ -274,7 +274,7 @@ Partial Class Cartel
         '
         'T17
         '
-        Me.T17.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T17.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T17.Location = New System.Drawing.Point(446, 96)
         Me.T17.Multiline = True
         Me.T17.Name = "T17"
@@ -286,7 +286,7 @@ Partial Class Cartel
         '
         'T16
         '
-        Me.T16.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T16.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T16.Location = New System.Drawing.Point(383, 96)
         Me.T16.Multiline = True
         Me.T16.Name = "T16"
@@ -298,7 +298,7 @@ Partial Class Cartel
         '
         'T15
         '
-        Me.T15.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T15.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T15.Location = New System.Drawing.Point(320, 96)
         Me.T15.Multiline = True
         Me.T15.Name = "T15"
@@ -310,7 +310,7 @@ Partial Class Cartel
         '
         'T14
         '
-        Me.T14.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T14.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T14.Location = New System.Drawing.Point(257, 96)
         Me.T14.Multiline = True
         Me.T14.Name = "T14"
@@ -322,7 +322,7 @@ Partial Class Cartel
         '
         'T13
         '
-        Me.T13.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T13.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T13.Location = New System.Drawing.Point(194, 96)
         Me.T13.Multiline = True
         Me.T13.Name = "T13"
@@ -334,7 +334,7 @@ Partial Class Cartel
         '
         'T12
         '
-        Me.T12.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T12.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T12.Location = New System.Drawing.Point(131, 96)
         Me.T12.Multiline = True
         Me.T12.Name = "T12"
@@ -346,7 +346,7 @@ Partial Class Cartel
         '
         'T11
         '
-        Me.T11.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T11.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T11.Location = New System.Drawing.Point(68, 96)
         Me.T11.Multiline = True
         Me.T11.Name = "T11"
@@ -358,7 +358,7 @@ Partial Class Cartel
         '
         'T30
         '
-        Me.T30.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T30.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T30.Location = New System.Drawing.Point(635, 162)
         Me.T30.Multiline = True
         Me.T30.Name = "T30"
@@ -370,7 +370,7 @@ Partial Class Cartel
         '
         'T29
         '
-        Me.T29.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T29.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T29.Location = New System.Drawing.Point(572, 162)
         Me.T29.Multiline = True
         Me.T29.Name = "T29"
@@ -382,7 +382,7 @@ Partial Class Cartel
         '
         'T28
         '
-        Me.T28.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T28.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T28.Location = New System.Drawing.Point(509, 162)
         Me.T28.Multiline = True
         Me.T28.Name = "T28"
@@ -394,7 +394,7 @@ Partial Class Cartel
         '
         'T27
         '
-        Me.T27.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T27.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T27.Location = New System.Drawing.Point(446, 162)
         Me.T27.Multiline = True
         Me.T27.Name = "T27"
@@ -406,7 +406,7 @@ Partial Class Cartel
         '
         'T26
         '
-        Me.T26.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T26.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T26.Location = New System.Drawing.Point(383, 162)
         Me.T26.Multiline = True
         Me.T26.Name = "T26"
@@ -418,7 +418,7 @@ Partial Class Cartel
         '
         'T25
         '
-        Me.T25.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T25.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T25.Location = New System.Drawing.Point(320, 162)
         Me.T25.Multiline = True
         Me.T25.Name = "T25"
@@ -430,7 +430,7 @@ Partial Class Cartel
         '
         'T24
         '
-        Me.T24.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T24.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T24.Location = New System.Drawing.Point(257, 162)
         Me.T24.Multiline = True
         Me.T24.Name = "T24"
@@ -442,7 +442,7 @@ Partial Class Cartel
         '
         'T23
         '
-        Me.T23.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T23.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T23.Location = New System.Drawing.Point(194, 162)
         Me.T23.Multiline = True
         Me.T23.Name = "T23"
@@ -454,7 +454,7 @@ Partial Class Cartel
         '
         'T22
         '
-        Me.T22.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T22.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T22.Location = New System.Drawing.Point(131, 162)
         Me.T22.Multiline = True
         Me.T22.Name = "T22"
@@ -466,7 +466,7 @@ Partial Class Cartel
         '
         'T21
         '
-        Me.T21.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T21.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T21.Location = New System.Drawing.Point(68, 162)
         Me.T21.Multiline = True
         Me.T21.Name = "T21"
@@ -478,7 +478,7 @@ Partial Class Cartel
         '
         'T40
         '
-        Me.T40.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T40.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T40.Location = New System.Drawing.Point(635, 228)
         Me.T40.Multiline = True
         Me.T40.Name = "T40"
@@ -490,7 +490,7 @@ Partial Class Cartel
         '
         'T39
         '
-        Me.T39.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T39.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T39.Location = New System.Drawing.Point(572, 228)
         Me.T39.Multiline = True
         Me.T39.Name = "T39"
@@ -502,7 +502,7 @@ Partial Class Cartel
         '
         'T38
         '
-        Me.T38.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T38.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T38.Location = New System.Drawing.Point(509, 228)
         Me.T38.Multiline = True
         Me.T38.Name = "T38"
@@ -514,7 +514,7 @@ Partial Class Cartel
         '
         'T37
         '
-        Me.T37.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T37.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T37.Location = New System.Drawing.Point(446, 228)
         Me.T37.Multiline = True
         Me.T37.Name = "T37"
@@ -526,7 +526,7 @@ Partial Class Cartel
         '
         'T36
         '
-        Me.T36.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T36.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T36.Location = New System.Drawing.Point(383, 228)
         Me.T36.Multiline = True
         Me.T36.Name = "T36"
@@ -538,7 +538,7 @@ Partial Class Cartel
         '
         'T35
         '
-        Me.T35.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T35.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T35.Location = New System.Drawing.Point(320, 228)
         Me.T35.Multiline = True
         Me.T35.Name = "T35"
@@ -550,7 +550,7 @@ Partial Class Cartel
         '
         'T34
         '
-        Me.T34.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T34.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T34.Location = New System.Drawing.Point(257, 228)
         Me.T34.Multiline = True
         Me.T34.Name = "T34"
@@ -562,7 +562,7 @@ Partial Class Cartel
         '
         'T33
         '
-        Me.T33.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T33.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T33.Location = New System.Drawing.Point(194, 228)
         Me.T33.Multiline = True
         Me.T33.Name = "T33"
@@ -574,7 +574,7 @@ Partial Class Cartel
         '
         'T32
         '
-        Me.T32.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T32.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T32.Location = New System.Drawing.Point(131, 228)
         Me.T32.Multiline = True
         Me.T32.Name = "T32"
@@ -586,7 +586,7 @@ Partial Class Cartel
         '
         'T31
         '
-        Me.T31.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T31.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T31.Location = New System.Drawing.Point(68, 228)
         Me.T31.Multiline = True
         Me.T31.Name = "T31"
@@ -598,7 +598,7 @@ Partial Class Cartel
         '
         'T80
         '
-        Me.T80.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T80.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T80.Location = New System.Drawing.Point(635, 492)
         Me.T80.Multiline = True
         Me.T80.Name = "T80"
@@ -610,7 +610,7 @@ Partial Class Cartel
         '
         'T79
         '
-        Me.T79.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T79.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T79.Location = New System.Drawing.Point(572, 492)
         Me.T79.Multiline = True
         Me.T79.Name = "T79"
@@ -622,7 +622,7 @@ Partial Class Cartel
         '
         'T78
         '
-        Me.T78.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T78.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T78.Location = New System.Drawing.Point(509, 492)
         Me.T78.Multiline = True
         Me.T78.Name = "T78"
@@ -634,7 +634,7 @@ Partial Class Cartel
         '
         'T77
         '
-        Me.T77.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T77.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T77.Location = New System.Drawing.Point(446, 492)
         Me.T77.Multiline = True
         Me.T77.Name = "T77"
@@ -646,7 +646,7 @@ Partial Class Cartel
         '
         'T76
         '
-        Me.T76.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T76.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T76.Location = New System.Drawing.Point(383, 492)
         Me.T76.Multiline = True
         Me.T76.Name = "T76"
@@ -658,7 +658,7 @@ Partial Class Cartel
         '
         'T75
         '
-        Me.T75.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T75.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T75.Location = New System.Drawing.Point(320, 492)
         Me.T75.Multiline = True
         Me.T75.Name = "T75"
@@ -670,7 +670,7 @@ Partial Class Cartel
         '
         'T74
         '
-        Me.T74.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T74.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T74.Location = New System.Drawing.Point(257, 492)
         Me.T74.Multiline = True
         Me.T74.Name = "T74"
@@ -682,7 +682,7 @@ Partial Class Cartel
         '
         'T73
         '
-        Me.T73.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T73.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T73.Location = New System.Drawing.Point(194, 492)
         Me.T73.Multiline = True
         Me.T73.Name = "T73"
@@ -694,7 +694,7 @@ Partial Class Cartel
         '
         'T72
         '
-        Me.T72.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T72.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T72.Location = New System.Drawing.Point(131, 492)
         Me.T72.Multiline = True
         Me.T72.Name = "T72"
@@ -706,7 +706,7 @@ Partial Class Cartel
         '
         'T71
         '
-        Me.T71.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T71.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T71.Location = New System.Drawing.Point(68, 492)
         Me.T71.Multiline = True
         Me.T71.Name = "T71"
@@ -718,7 +718,7 @@ Partial Class Cartel
         '
         'T70
         '
-        Me.T70.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T70.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T70.Location = New System.Drawing.Point(635, 426)
         Me.T70.Multiline = True
         Me.T70.Name = "T70"
@@ -730,7 +730,7 @@ Partial Class Cartel
         '
         'T69
         '
-        Me.T69.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T69.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T69.Location = New System.Drawing.Point(572, 426)
         Me.T69.Multiline = True
         Me.T69.Name = "T69"
@@ -742,7 +742,7 @@ Partial Class Cartel
         '
         'T68
         '
-        Me.T68.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T68.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T68.Location = New System.Drawing.Point(509, 426)
         Me.T68.Multiline = True
         Me.T68.Name = "T68"
@@ -754,7 +754,7 @@ Partial Class Cartel
         '
         'T67
         '
-        Me.T67.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T67.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T67.Location = New System.Drawing.Point(446, 426)
         Me.T67.Multiline = True
         Me.T67.Name = "T67"
@@ -766,7 +766,7 @@ Partial Class Cartel
         '
         'T66
         '
-        Me.T66.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T66.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T66.Location = New System.Drawing.Point(383, 426)
         Me.T66.Multiline = True
         Me.T66.Name = "T66"
@@ -778,7 +778,7 @@ Partial Class Cartel
         '
         'T65
         '
-        Me.T65.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T65.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T65.Location = New System.Drawing.Point(320, 426)
         Me.T65.Multiline = True
         Me.T65.Name = "T65"
@@ -790,7 +790,7 @@ Partial Class Cartel
         '
         'T64
         '
-        Me.T64.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T64.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T64.Location = New System.Drawing.Point(257, 426)
         Me.T64.Multiline = True
         Me.T64.Name = "T64"
@@ -802,7 +802,7 @@ Partial Class Cartel
         '
         'T63
         '
-        Me.T63.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T63.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T63.Location = New System.Drawing.Point(194, 426)
         Me.T63.Multiline = True
         Me.T63.Name = "T63"
@@ -814,7 +814,7 @@ Partial Class Cartel
         '
         'T62
         '
-        Me.T62.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T62.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T62.Location = New System.Drawing.Point(131, 426)
         Me.T62.Multiline = True
         Me.T62.Name = "T62"
@@ -826,7 +826,7 @@ Partial Class Cartel
         '
         'T61
         '
-        Me.T61.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T61.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T61.Location = New System.Drawing.Point(68, 426)
         Me.T61.Multiline = True
         Me.T61.Name = "T61"
@@ -838,7 +838,7 @@ Partial Class Cartel
         '
         'T60
         '
-        Me.T60.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T60.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T60.Location = New System.Drawing.Point(635, 360)
         Me.T60.Multiline = True
         Me.T60.Name = "T60"
@@ -850,7 +850,7 @@ Partial Class Cartel
         '
         'T59
         '
-        Me.T59.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T59.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T59.Location = New System.Drawing.Point(572, 360)
         Me.T59.Multiline = True
         Me.T59.Name = "T59"
@@ -862,7 +862,7 @@ Partial Class Cartel
         '
         'T58
         '
-        Me.T58.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T58.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T58.Location = New System.Drawing.Point(509, 360)
         Me.T58.Multiline = True
         Me.T58.Name = "T58"
@@ -874,7 +874,7 @@ Partial Class Cartel
         '
         'T57
         '
-        Me.T57.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T57.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T57.Location = New System.Drawing.Point(446, 360)
         Me.T57.Multiline = True
         Me.T57.Name = "T57"
@@ -886,7 +886,7 @@ Partial Class Cartel
         '
         'T56
         '
-        Me.T56.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T56.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T56.Location = New System.Drawing.Point(383, 360)
         Me.T56.Multiline = True
         Me.T56.Name = "T56"
@@ -898,7 +898,7 @@ Partial Class Cartel
         '
         'T55
         '
-        Me.T55.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T55.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T55.Location = New System.Drawing.Point(320, 360)
         Me.T55.Multiline = True
         Me.T55.Name = "T55"
@@ -910,7 +910,7 @@ Partial Class Cartel
         '
         'T54
         '
-        Me.T54.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T54.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T54.Location = New System.Drawing.Point(257, 360)
         Me.T54.Multiline = True
         Me.T54.Name = "T54"
@@ -922,7 +922,7 @@ Partial Class Cartel
         '
         'T53
         '
-        Me.T53.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T53.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T53.Location = New System.Drawing.Point(194, 360)
         Me.T53.Multiline = True
         Me.T53.Name = "T53"
@@ -934,7 +934,7 @@ Partial Class Cartel
         '
         'T52
         '
-        Me.T52.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T52.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T52.Location = New System.Drawing.Point(131, 360)
         Me.T52.Multiline = True
         Me.T52.Name = "T52"
@@ -946,7 +946,7 @@ Partial Class Cartel
         '
         'T51
         '
-        Me.T51.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T51.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T51.Location = New System.Drawing.Point(68, 360)
         Me.T51.Multiline = True
         Me.T51.Name = "T51"
@@ -958,7 +958,7 @@ Partial Class Cartel
         '
         'T50
         '
-        Me.T50.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T50.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T50.Location = New System.Drawing.Point(635, 294)
         Me.T50.Multiline = True
         Me.T50.Name = "T50"
@@ -970,7 +970,7 @@ Partial Class Cartel
         '
         'T49
         '
-        Me.T49.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T49.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T49.Location = New System.Drawing.Point(572, 294)
         Me.T49.Multiline = True
         Me.T49.Name = "T49"
@@ -982,7 +982,7 @@ Partial Class Cartel
         '
         'T48
         '
-        Me.T48.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T48.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T48.Location = New System.Drawing.Point(509, 294)
         Me.T48.Multiline = True
         Me.T48.Name = "T48"
@@ -994,7 +994,7 @@ Partial Class Cartel
         '
         'T47
         '
-        Me.T47.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T47.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T47.Location = New System.Drawing.Point(446, 294)
         Me.T47.Multiline = True
         Me.T47.Name = "T47"
@@ -1006,7 +1006,7 @@ Partial Class Cartel
         '
         'T46
         '
-        Me.T46.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T46.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T46.Location = New System.Drawing.Point(383, 294)
         Me.T46.Multiline = True
         Me.T46.Name = "T46"
@@ -1018,7 +1018,7 @@ Partial Class Cartel
         '
         'T45
         '
-        Me.T45.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T45.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T45.Location = New System.Drawing.Point(320, 294)
         Me.T45.Multiline = True
         Me.T45.Name = "T45"
@@ -1030,7 +1030,7 @@ Partial Class Cartel
         '
         'T44
         '
-        Me.T44.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T44.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T44.Location = New System.Drawing.Point(257, 294)
         Me.T44.Multiline = True
         Me.T44.Name = "T44"
@@ -1042,7 +1042,7 @@ Partial Class Cartel
         '
         'T43
         '
-        Me.T43.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T43.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T43.Location = New System.Drawing.Point(194, 294)
         Me.T43.Multiline = True
         Me.T43.Name = "T43"
@@ -1054,7 +1054,7 @@ Partial Class Cartel
         '
         'T42
         '
-        Me.T42.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T42.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T42.Location = New System.Drawing.Point(131, 294)
         Me.T42.Multiline = True
         Me.T42.Name = "T42"
@@ -1066,7 +1066,7 @@ Partial Class Cartel
         '
         'T41
         '
-        Me.T41.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T41.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T41.Location = New System.Drawing.Point(68, 294)
         Me.T41.Multiline = True
         Me.T41.Name = "T41"
@@ -1078,7 +1078,7 @@ Partial Class Cartel
         '
         'T90
         '
-        Me.T90.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T90.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T90.Location = New System.Drawing.Point(635, 558)
         Me.T90.Multiline = True
         Me.T90.Name = "T90"
@@ -1090,7 +1090,7 @@ Partial Class Cartel
         '
         'T89
         '
-        Me.T89.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T89.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T89.Location = New System.Drawing.Point(572, 558)
         Me.T89.Multiline = True
         Me.T89.Name = "T89"
@@ -1102,7 +1102,7 @@ Partial Class Cartel
         '
         'T88
         '
-        Me.T88.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T88.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T88.Location = New System.Drawing.Point(509, 558)
         Me.T88.Multiline = True
         Me.T88.Name = "T88"
@@ -1114,7 +1114,7 @@ Partial Class Cartel
         '
         'T87
         '
-        Me.T87.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T87.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T87.Location = New System.Drawing.Point(446, 558)
         Me.T87.Multiline = True
         Me.T87.Name = "T87"
@@ -1126,7 +1126,7 @@ Partial Class Cartel
         '
         'T86
         '
-        Me.T86.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T86.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T86.Location = New System.Drawing.Point(383, 558)
         Me.T86.Multiline = True
         Me.T86.Name = "T86"
@@ -1138,7 +1138,7 @@ Partial Class Cartel
         '
         'T85
         '
-        Me.T85.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T85.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T85.Location = New System.Drawing.Point(320, 558)
         Me.T85.Multiline = True
         Me.T85.Name = "T85"
@@ -1150,7 +1150,7 @@ Partial Class Cartel
         '
         'T84
         '
-        Me.T84.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T84.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T84.Location = New System.Drawing.Point(257, 558)
         Me.T84.Multiline = True
         Me.T84.Name = "T84"
@@ -1162,7 +1162,7 @@ Partial Class Cartel
         '
         'T83
         '
-        Me.T83.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T83.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T83.Location = New System.Drawing.Point(194, 558)
         Me.T83.Multiline = True
         Me.T83.Name = "T83"
@@ -1174,7 +1174,7 @@ Partial Class Cartel
         '
         'T82
         '
-        Me.T82.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T82.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T82.Location = New System.Drawing.Point(131, 558)
         Me.T82.Multiline = True
         Me.T82.Name = "T82"
@@ -1186,7 +1186,7 @@ Partial Class Cartel
         '
         'T81
         '
-        Me.T81.Font = New System.Drawing.Font("Modern No. 20", 36.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.T81.Font = New System.Drawing.Font("Monotype Corsiva", 36.0!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.T81.Location = New System.Drawing.Point(68, 558)
         Me.T81.Multiline = True
         Me.T81.Name = "T81"
